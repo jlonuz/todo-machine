@@ -15,7 +15,8 @@
 
   .TodoSearch::placeholder {
     color: #A5A5A5;
-    font-family: 'Montserrat';
+    /* font-family: 'Montserrat'; */
+    font-family: 'Josefin Slab', serif;
     font-weight: 400;
   }
 
